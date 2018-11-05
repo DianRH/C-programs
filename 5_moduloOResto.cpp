@@ -1,4 +1,6 @@
 #include <stdio.h>
+/*PROBLEMA
+Dado un valor numÃ©rico entero, informar si es par o impar*/
 
 int main(){
 	
@@ -7,7 +9,7 @@ int main(){
 	printf("Ingrese un valor: ");
 	scanf("%d",&n);
 	
-	// % retorna el resto (o valor residual) que se obtiene luego de efectuar la división entera de sus operandos
+	// % retorna el resto (o valor residual) que se obtiene luego de efectuar la divisiï¿½n entera de sus operandos
 	if(n%2 ==0){
 		printf("%d es par\n"
 				,n);

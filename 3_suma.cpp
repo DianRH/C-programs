@@ -1,4 +1,6 @@
 #include <stdio.h>
+/*PROBLEMA
+*Leer dos valores enteros e informar su suma*/
 
 int main(){
 	int a,b ,c;
@@ -18,7 +20,7 @@ int main(){
 	/*Operadores
 	+ suma
 	- resta
-	* multiplicación
-	/ división (cociente)
-	% módulo,resto o valor residual*/
+	* multiplicaciï¿½n
+	/ divisiï¿½n (cociente)
+	% mï¿½dulo,resto o valor residual*/
 	}

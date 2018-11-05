@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*PROBLEMA
+Leer dos valores numéricos enteros e indicar cual es el mayor y cual es el menor.Considerar que ambos valores 
+son diferentes*/
 int main(){
 	
 	int a,b;

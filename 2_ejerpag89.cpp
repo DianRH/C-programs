@@ -4,16 +4,16 @@
 
 main(){
 	
-//	#define LIBRA 453.592 //grs
-//	#define PIES .3048 //metros
+	#define LIBRA 453.592 //grs
+	#define PIES .3048 //metros
 
-	const float LIBRA = 453.592;
-	const float PIES = .3048;
+//	const float LIBRA = 453.592;
+//	const float PIES = .3048;
 		
 	double conversion, grs, resultLibra, metros, resultKg, resultPie;
 	char opcion;
 	
-	printf("¿Que conversion desea hacer?\n\n a) kg a libras\n b) m a pies\n c) libras a kg\n d) pies a m\n\n");
+	printf("ï¿½Que conversion desea hacer?\n\n a) kg a libras\n b) m a pies\n c) libras a kg\n d) pies a m\n\n");
 	scanf("%c",&opcion);
 	
 	printf("Ingrese un valor: ");
